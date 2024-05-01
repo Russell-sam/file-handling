@@ -1,0 +1,7 @@
+This is the first line of text.
+Here's another line with a number: 42.
+And a final line for good measure.
+
+Appended line 1.
+Appended line 2 with another number: 100.
+Appended line 3, the end.
